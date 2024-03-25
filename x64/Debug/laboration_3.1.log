@@ -1,0 +1,8 @@
+﻿  Date.cpp
+  Triad.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.1\Triad.cpp(93,18): warning C4101: 'year': unreferenced local variable
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.1\Triad.cpp(93,11): warning C4101: 'month': unreferenced local variable
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.1\Triad.cpp(93,6): warning C4101: 'day': unreferenced local variable
+  laboration_3.1.cpp
+  Generating Code...
+  laboration_3.1.vcxproj -> C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.1\x64\Debug\laboration_3.1.exe
